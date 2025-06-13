@@ -22,7 +22,7 @@ This project explores customer churn using a dynamic Power BI dashboard. It prov
 
 ## 🖼️ Dashboard Preview
 
-![Churn Dashboard Preview](churnfi.jpg)
+![Churn Dashboard Preview](churnfinal.jpg)
 
 ## 📁 Files Included
 
